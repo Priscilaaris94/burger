@@ -5,6 +5,3 @@ A full stack dynamic site. Model-View-Controller (MVC) application, uses (POST) 
 # About app
 *How the app works
 
-*How the app is built
-
-*MVC design pattern
