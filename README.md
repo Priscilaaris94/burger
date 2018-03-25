@@ -8,5 +8,6 @@ Burger is a dynamic full stack application in which the user can place an order 
 
 # Techologies used to build app
 
-Burger uses express for the backend web framework. Node and MySql query and route data in the application. Handlebars are used to templat the static HTML files.
+Burger uses express for the backend web framework and ORM(Object Relational Mapping). Node and MySql query and route data in the application. Handlebars are used to templat the static HTML files.
 
+The front end of Burger is build with static file such as: HTML, CSS, Javascript, and the Bootstarp templates.
