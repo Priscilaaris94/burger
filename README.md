@@ -3,9 +3,9 @@
 A full stack dynamic site. Model-View-Controller (MVC) application, uses (POST) to create a burger, (GET) to view list of burgers, (PUT) to eat burgers, (DELETE) to remove the burger once eaten. 
 
 ## Table of contents
-* [About app](#about-app)
-* [Project structure](#project-structure)
-* [Techologies used to build app](#technologies-used-to-build-app)
+* [About App](#about-app)
+* [Project Structure](#project-structure)
+* [Techologies Used to Build App](#technologies-used-to-build-app)
 
 ## <a name="about-app"></a> About app 
 
